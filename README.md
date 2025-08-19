@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahakmax007
-- 👀 I’m interested in Web development 
+- 👀 I’m interested in data analyst.
 - 🌱 I’m currently learning data structure and algorithm in Java 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mahaksingh20655@gmail.com 
